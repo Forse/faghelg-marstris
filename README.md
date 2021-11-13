@@ -2,7 +2,7 @@
 
 Your everyday colonizing-of-Mars multiplayer game.
 
-[[marstris.png]]
+![Marstris](marstris.png)
 
 ## Requirements
 .NET 6
