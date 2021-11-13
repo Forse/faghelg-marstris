@@ -9,8 +9,6 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Marstris.Client", "Marstris
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Marstris.Core", "Marstris.Core\Marstris.Core.csproj", "{8E803F43-7AE3-48BC-95B4-C6CCDBEF0850}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Marstris.TestClient", "Marstris.TestClient\Marstris.TestClient.csproj", "{77078B6A-36BD-4004-B1A7-C0FEDFD67A5B}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Marstris.Client.Web", "Marstris.Client.Web\Marstris.Client.Web.csproj", "{73E9C4E9-E1AD-4331-BC6C-2D5DD177BEDA}"
 EndProject
 Global
@@ -31,10 +29,6 @@ Global
 		{8E803F43-7AE3-48BC-95B4-C6CCDBEF0850}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8E803F43-7AE3-48BC-95B4-C6CCDBEF0850}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8E803F43-7AE3-48BC-95B4-C6CCDBEF0850}.Release|Any CPU.Build.0 = Release|Any CPU
-		{77078B6A-36BD-4004-B1A7-C0FEDFD67A5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{77078B6A-36BD-4004-B1A7-C0FEDFD67A5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{77078B6A-36BD-4004-B1A7-C0FEDFD67A5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{77078B6A-36BD-4004-B1A7-C0FEDFD67A5B}.Release|Any CPU.Build.0 = Release|Any CPU
 		{73E9C4E9-E1AD-4331-BC6C-2D5DD177BEDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{73E9C4E9-E1AD-4331-BC6C-2D5DD177BEDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{73E9C4E9-E1AD-4331-BC6C-2D5DD177BEDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
